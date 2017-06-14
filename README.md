@@ -32,3 +32,6 @@ Avaliable methods:
   + rep_perms: generate permutation with repicas
 
 ## 2. functions
+  + interleave: serial interleaver
+  + deinterleave: serial interleaver
+  + fc: fc function for LLR updating
