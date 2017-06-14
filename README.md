@@ -4,8 +4,8 @@ Some useful Matlab functions for wireless communication simulations
 Avaliable methods:
 ## 1. channels: channel related functions
 - MIMO: MIMO related functions
-> alamouti_2x1_stbc: 2x1 MIMO Alamouti STBC channel
-> alamouti_2x2_stbc: 2x2 MIMO Alamouti STBC channel
++ alamouti_2x1_stbc: 2x1 MIMO Alamouti STBC channel
++ alamouti_2x2_stbc: 2x2 MIMO Alamouti STBC channel
 > beam_forming_bpsk: Mx1 BPSK modulated beam-forming
 > ml_bpsk: MxN BPSK modulated maximum likelihood receiver
 > mmse_bpsk: MxN MMSE equalizer with successive iterference cancellation and/or optimal ordering
